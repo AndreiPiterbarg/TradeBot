@@ -1,0 +1,1 @@
+EXTERNAL BOT THAT Sells once the investemnt has reached certain percentage
